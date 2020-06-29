@@ -326,7 +326,9 @@ void set_game_board(char game_board_array[COL_SIZE][ROW_SIZE], GameObject snake_
 }
 
 // TODO Score
-// -Increment 1 per eatean food.
+// -Increment 1 per eatean food. 
 
 // TODO Save Score to File
 // -Check if game over score is higher than saved highest score then save new high score.
+
+// Testing with git terminal.
